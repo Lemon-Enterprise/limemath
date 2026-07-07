@@ -1,5 +1,5 @@
 mod operators;
 
 pub trait LimeMath {
-    use Operators::termi;
+    use operators::termi;
 }
