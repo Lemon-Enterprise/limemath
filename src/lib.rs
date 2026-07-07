@@ -1,3 +1,2 @@
-mod termi;
-
-use crate::termi;
+// src/lib.rs
+pub mod operators;
