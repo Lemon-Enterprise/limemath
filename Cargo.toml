@@ -1,0 +1,8 @@
+[package]
+name = "limemath"
+version = "0.6.0"
+edition = "2024"
+readme = "README.md"
+license = "Apache-2.0"
+
+[dependencies]
