@@ -1,3 +1,1 @@
 mod termi;
-
-use termi;
