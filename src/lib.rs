@@ -1,3 +1,1 @@
-mod operators;
-
-use termi;
+mod termi;
