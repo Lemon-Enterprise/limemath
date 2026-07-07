@@ -1,3 +1,2 @@
-// src/operators/mo
-
-pub use termi::termi; 
+pub mod termi;
+pub use termi::termi;
