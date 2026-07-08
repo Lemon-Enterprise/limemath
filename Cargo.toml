@@ -6,5 +6,7 @@ readme = "README.md"
 license = "Apache-2.0"
 description = "A math crate made by Lemon Enterprise"
 repository = "https://github.com/Lemon-Enterprise/limemath"
+categories = ["mathematics"]
+keywords = ["math"]
 
 [dependencies]
